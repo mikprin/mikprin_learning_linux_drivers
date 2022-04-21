@@ -2,5 +2,5 @@
 **/*.ko
 **/*.mod*
 **/*.order
-**/*.symver
+**/*.symvers
 **/*.cmd*
